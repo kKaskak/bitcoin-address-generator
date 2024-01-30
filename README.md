@@ -3,4 +3,4 @@
 cargo run
 ```
 
-## Outputs Ripemd160 hash & BTC address
+**Outputs Ripemd160 hash & BTC address**
